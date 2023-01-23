@@ -1,0 +1,13 @@
+.box{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg1{
+height: 680px;
+width: 100%;
+background-color:#ebe4ec;
+
+}
+
